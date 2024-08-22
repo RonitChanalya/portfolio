@@ -1,0 +1,169 @@
+*{
+  font-family: "Exo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header-container{
+  display: flex;
+  /* border: 1px solid black; */
+  width: 100%;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo{
+  height: 50px;
+  align-items: center;
+  margin-left: 120px;
+  margin-top: 15px;
+}
+
+.navbar{
+  margin-right: 90px;
+}
+
+.navbar-btn{
+    margin-right: 40px;
+    color: #0D7C66;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.body-container{
+  /* border: 1px solid black; */
+  margin-top: 14px;
+}
+
+.image1{
+  float: right;
+  height: 374px;
+  margin-right: 100px;
+  border-radius: 2%;
+  box-shadow: 8px 8px #0D7C66;
+  border: none;
+}
+
+.content1{
+  margin-left: 100px;
+  font-weight: 300;
+  font-size: 19px;
+}
+
+.heading1{
+  color: #0D7C66;
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 10px;
+  margin-top: 67px;
+}
+
+.location{
+  margin-top: 40px;
+}
+
+.location-icon{
+  float: left;
+  height: 22px;
+  margin-right: 10px;
+}
+
+.about-container{
+  padding-top: 80px;
+  border: 1px solid black;
+  height: 550px;
+  margin-top: 250px;
+  background-color: rgb(18, 18, 18);
+  padding-left: 100px;
+}
+
+.about{
+  color: #41B3A2;
+  font-weight: bold;
+  font-size: 40px;
+  /* text-align: center; */
+}
+
+.about-para{
+  color: #fff;
+  font-size: 19px;
+  list-style: none;
+  margin-bottom: 15px;
+  margin-right: 120px;
+}
+
+.image2{
+  border: none;
+  height: 500px;
+  float: left;
+  margin-right: 100px;
+  border-radius: 2%;
+  box-shadow: 11px 11px #0D7C66;
+  border: 7px solid white; 
+}
+
+.about-span{
+  font-weight: bold;
+}
+
+.linkedin-btn{
+  height: 32px;
+  margin-top: 12px;
+  float: left;
+}
+
+.github-btn{
+  height: 27px;
+  margin-top: 14px;
+  margin-left: 10px;
+}
+
+.linkedin-white-btn{
+  height: 30px;
+  margin-top: 12px;
+  float: left;
+  margin-right: 10px;
+}
+
+.github-white-btn{
+  height: 32px;
+  margin-top: 12px;
+  float: left;
+}
+
+.skill-heading{
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 10px;
+  font-size: 40px;
+  color: #0D7C66;
+  font-weight: bold;
+}
+
+
+.skills-container{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  /* border: 1px solid black; */
+  /* height: 300px; */
+  /* margin-top: 100px; */
+  background-color: #e0e0e0;
+  margin-bottom: 100px;
+  padding-bottom: 30px;
+}
+
+.skill-logo{
+  margin-top: 30px;
+  height: 100px;
+}
+
+.python{
+  height: 90px;
+  /* margin-top: 30px; */
+}
